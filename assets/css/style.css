@@ -1,0 +1,22 @@
+#randySavage {
+  background-image: url("../img/randySavage.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 60%;
+  border-radius: 20px;
+}
+
+#text {
+  background-color: rgba(0, 0, 0, .6);
+  color: white;
+  font-weight: bold;
+  margin: 5%;
+  padding: 2%;
+  border-radius: 20px;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
